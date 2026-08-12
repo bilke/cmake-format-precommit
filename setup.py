@@ -4,6 +4,6 @@ setup(
     version="0.0.0",
     install_requires=[
         # Includes fixes for FILE_SETS
-        "cmakelang[yaml] @ https://github.com/solarispika/cmake_format/releases/download/v0.6.13.2/cmakelang-0.6.13.2-py3-none-any.whl"
+        "cmakelang[YAML] @ https://github.com/solarispika/cmake_format/releases/download/v0.6.13.2/cmakelang-0.6.13.2-py3-none-any.whl"
     ],
 )
